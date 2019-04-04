@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="frame_layout">Frame Layout</string>
+    <string name="table_layout">Table Layout</string>
+    <string name="constraint_layout">Constraint Layout</string>
+    <string name="frame">Frame</string>
+    <string name="table">Table</string>
+    <string name="constraint">Constraint</string>
+    <string name="back">Atrás</string>
+    <string name="name_table_header">Nombre</string>
+    <string name="table_header_surname">Apellidos</string>
+    <string name="login">Login</string>
+    <string name="remove">Borrar</string>
+</resources>

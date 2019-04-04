@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">WeatherApp</string>
+    <string name="hello">Hello Master!!</string>
+</resources>
